@@ -1,0 +1,4 @@
+name: Enchantx64
+version: '1.0-SNAPSHOT'
+main: A.enchantx64.Enchantx64
+api-version: '1.21'
